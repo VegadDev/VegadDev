@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @VegadDev
 - 👀 I’m interested in Android Application Development
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kotlin with Jetpack Compose
 - 💞️ I’m looking for Job related to my interest
